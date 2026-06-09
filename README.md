@@ -18,7 +18,7 @@ Meu nome é Felipe Nascimento De Angelis, tenho 21 anos e sou estudante de Engen
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=0Angelis&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=0Angelis&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
 
 <img 
