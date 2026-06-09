@@ -12,11 +12,6 @@ Me chamo Felipe Nascimento De Angelis, tenho 21 anos e sou natural de Maringá, 
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:felipeangelis26@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https:/www.linkedin.com/in/0angelis](https://www.linkedin.com/in/0angelis))
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)]([https://www.instagram.com/paulopontodev/](https://www.instagram.com/fe_angelis/))
 
 
 <h3 align="left">My Stack ~</h3>
