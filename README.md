@@ -5,15 +5,18 @@
 </div>
 
 #
+🇺🇸 English
 
-Me chamo Felipe Nascimento De Angelis, tenho 21 anos e sou natural de Maringá, Paraná, Brasil. Atualmente curso Engenharia de Software na Universidade Estadual de Maringá (UEM).
+My name is Felipe Nascimento De Angelis, and I am a 21-year-old Software Engineering student at State University of Maringá (UEM), based in Maringá. I am passionate about technology, software development, and continuously improving my technical skills through academic and personal projects.
  
+#
+#
+🇧🇷 Português
+
+Meu nome é Felipe Nascimento De Angelis, tenho 21 anos e sou estudante de Engenharia de Software na Universidade Estadual de Maringá (UEM). Sou apaixonado por tecnologia, desenvolvimento de software e por aprimorar continuamente minhas habilidades técnicas por meio de projetos acadêmicos e pessoais.
 #
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
-
-
-
 
 
 <h3 align="left">GitHub Stats</h3>
