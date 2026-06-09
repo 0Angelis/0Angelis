@@ -8,7 +8,6 @@
 Meu nome é Felipe Nascimento De Angelis, tenho 21 anos e sou estudante de Engenharia de Software na Universidade Estadual de Maringá (UEM).
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
 
 <h3 align="left">GitHub Stats</h3>
