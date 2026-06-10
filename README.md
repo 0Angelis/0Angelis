@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=524&lines=0Angelis" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9333EA&center=true&vCenter=true&random=false&width=524&lines=0Angelis" alt="Typing SVG">
   </a>
 </div>
 
@@ -28,7 +28,7 @@ Meu nome é Felipe Nascimento De Angelis, tenho 21 anos e sou estudante de Engen
   /> -->
 
 <div> 
-    <img width=315 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Angelis&theme=midnight-purple&border_color=2aa889&layout=compact&langs_count=6&locale=pt-br&hide=css"/> 
+    <img width=315 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Angelis&theme=midnight-purple&border_color=9333EA&layout=compact&langs_count=6&locale=pt-br&hide=css"/> 
 </div> 
 
 
