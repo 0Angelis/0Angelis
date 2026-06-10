@@ -8,26 +8,29 @@
 Meu nome é Felipe Nascimento De Angelis, tenho 21 anos e sou estudante de Engenharia de Software na Universidade Estadual de Maringá (UEM).
 #
 
-
-
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img 
+     <!-- <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=0Angelis&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&cache_seconds=86400"
-  />
+  /> -->
 
 
-<img 
+ <!-- <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats-delta-seven-83.vercel.app/api/top-langs/?username=0Angelis&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
+  /> -->
+
+<div> 
+    <img width=315 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Angelis&theme=midnight-purple&border_color=2aa889&layout=compact&langs_count=6&locale=pt-br&hide=css"/> 
+</div> 
+
 
 </p>
 
