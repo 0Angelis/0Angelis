@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=0Angelis" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=524&lines=0Angelis" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 Meu nome é Felipe Nascimento De Angelis, tenho 21 anos e sou estudante de Engenharia de Software na Universidade Estadual de Maringá (UEM).
 #
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>   
 
 <p>
      <!-- <img 
