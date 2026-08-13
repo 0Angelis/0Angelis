@@ -4,38 +4,42 @@
   </a>
 </div>
 
-# 
-Meu nome é Felipe Nascimento De Angelis, tenho 21 anos e sou estudante de Engenharia de Software na Universidade Estadual de Maringá (UEM).
 #
 
-<h3 align="left">⚡GitHub Stats</h3>   
+Meu nome é Felipe Nascimento De Angelis, tenho 21 anos e sou estudante de Engenharia de Software na Universidade Estadual de Maringá (UEM).
 
-<p>
-     <!-- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=0Angelis&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&cache_seconds=86400"
-  /> -->
+#
+
+<h3 align="left">⚡ GitHub Stats</h3>
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=0Angelis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F6FF&icon_color=00F6FF&text_color=C9D1D9&ring=00F6FF" />
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0Angelis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F6FF&text_color=C9D1D9&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0Angelis&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F6FF&line=00F6FF&point=39FF14&area=true&area_color=00F6FF" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 
- <!-- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-delta-seven-83.vercel.app/api/top-langs/?username=0Angelis&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  /> -->
 
-<div> 
-    <img width=315 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Angelis&theme=midnight-purple&border_color=9333EA&layout=compact&langs_count=6&locale=pt-br&hide=css"/> 
-</div> 
+</div>
 
+<br>
 
-</p>
-
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Angelis/0Angelis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Angelis/0Angelis/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0Angelis/0Angelis/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Angelis/0Angelis/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0Angelis/0Angelis/output/github-contribution-grid-snake.svg">
 </picture>
